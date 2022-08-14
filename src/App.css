@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.box p{
+  color: red;
+}
